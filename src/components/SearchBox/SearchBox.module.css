@@ -1,0 +1,10 @@
+.containerSearchBox {
+  display: flex;
+  flex-direction: column;
+  width: 325px;
+  margin-bottom: 20px;
+}
+.inputForm {
+  height: 25px;
+  margin-top: 10px;
+}

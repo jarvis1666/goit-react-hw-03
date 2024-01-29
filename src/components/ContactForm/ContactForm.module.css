@@ -1,0 +1,25 @@
+.containerForm {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000000;
+  margin-bottom: 10px;
+  width: 300px;
+  padding: 10px;
+  gap: 10px;
+}
+.elemForm {
+  display: flex;
+  flex-direction: column;
+}
+.error {
+  font-size: 10px;
+  color: #d24221;
+}
+.fildForm {
+  height: 25px;
+}
+.btnForm:hover,
+.btnForm:focus {
+  background-color: #15e13a76;
+  border: 1px solid #1a9752;
+}
